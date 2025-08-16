@@ -4,6 +4,7 @@
     "delay_seconds": 90,
     "channel_notif": -1002673284248,
     "target_hour": [0, 3, 5, 17],
+    "jumlah_random_word": 4,
     "target_minute": 0,
     "daftar_account":[
         {
