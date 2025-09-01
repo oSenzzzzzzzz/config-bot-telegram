@@ -5,7 +5,7 @@
     "channel_notif": -1002673284248,
     "target_hour": [0, 3, 5, 17, 10],
     "jumlah_random_word": 4,
-    "target_minute": 41,
+    "target_minute": 50,
     "daftar_account":[
         {
             "session_name": "akun_upi",
