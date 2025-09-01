@@ -8,10 +8,10 @@
         3,
         5,
         17,
-        12
+        1
     ],
     "jumlah_random_word": 4,
-    "target_minute": 30,
+    "target_minute": 0,
     "daftar_account": [
         {
             "session_name": "akun_upi",
