@@ -3,10 +3,15 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 90,
     "channel_notif": -1002673284248,
-    "target_hour": [0, 3, 5, 17, 10],
+    "target_hour": [
+        0,
+        3,
+        5,
+        17
+    ],
     "jumlah_random_word": 4,
-    "target_minute": 52,
-    "daftar_account":[
+    "target_minute": 0,
+    "daftar_account": [
         {
             "session_name": "akun_upi",
             "phone_number": "+6289601383240",
@@ -20,7 +25,7 @@
                     "public_link": "MandulBukanPilihan"
                 },
                 {
-                    "channel_id": -1002661193571 ,
+                    "channel_id": -1002661193571,
                     "public_link": "SeindahHujanCinta"
                 },
                 {
@@ -28,7 +33,6 @@
                     "public_link": "AkuBukanUstazah"
                 }
             ]
-            
         },
         {
             "session_name": "akun_rizky",
@@ -48,7 +52,7 @@
                 }
             ]
         },
-        { 
+        {
             "session_name": "akun_bohlam",
             "phone_number": "+6287817970785",
             "channel": [
@@ -66,7 +70,7 @@
                 }
             ]
         },
-        { 
+        {
             "session_name": "akun_saifannur",
             "phone_number": "+62 87817809364",
             "channel": [
@@ -79,11 +83,11 @@
                     "public_link": "ThariqRidzuwan"
                 },
                 {
-                    "channel_id": -1002810029345 ,
+                    "channel_id": -1002810029345,
                     "public_link": "Aku_Bukan_Ustazah2"
                 },
                 {
-                    "channel_id": -1002727242579 ,
+                    "channel_id": -1002727242579,
                     "public_link": "DiaBukanSyurga"
                 }
             ]
