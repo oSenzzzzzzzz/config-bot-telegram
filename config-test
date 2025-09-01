@@ -7,88 +7,19 @@
         0,
         3,
         5,
-        17
+        17,
+        12
     ],
     "jumlah_random_word": 4,
-    "target_minute": 0,
+    "target_minute": 30,
     "daftar_account": [
         {
             "session_name": "akun_upi",
             "phone_number": "+6289601383240",
             "channel": [
                 {
-                    "channel_id": -1002635373710,
-                    "public_link": "mandul_bukan_pilihan"
-                },
-                {
-                    "channel_id": -1002658421876,
-                    "public_link": "MandulBukanPilihan"
-                },
-                {
-                    "channel_id": -1002661193571,
-                    "public_link": "SeindahHujanCinta"
-                },
-                {
-                    "channel_id": -1001977820685,
-                    "public_link": "AkuBukanUstazah"
-                }
-            ]
-        },
-        {
-            "session_name": "akun_rizky",
-            "phone_number": "+6282338341819",
-            "channel": [
-                {
-                    "channel_id": -1002786457921,
-                    "public_link": "Di_Sebalik_Reda"
-                },
-                {
-                    "channel_id": -1002553767848,
-                    "public_link": "HilangDalamRindu"
-                },
-                {
-                    "channel_id": -1002311890998,
-                    "public_link": "DosaCinta"
-                }
-            ]
-        },
-        {
-            "session_name": "akun_bohlam",
-            "phone_number": "+6287817970785",
-            "channel": [
-                {
-                    "channel_id": -1002842822673,
-                    "public_link": "HoneyTrap"
-                },
-                {
-                    "channel_id": -1002580127187,
-                    "public_link": "Setia_Itu_Mahal"
-                },
-                {
-                    "channel_id": -1002611884885,
-                    "public_link": "SetiaItuMahal"
-                }
-            ]
-        },
-        {
-            "session_name": "akun_saifannur",
-            "phone_number": "+62 87817809364",
-            "channel": [
-                {
-                    "channel_id": -1002618126267,
-                    "public_link": "Thariq_Ridzuwan"
-                },
-                {
-                    "channel_id": -1002722546928,
-                    "public_link": "ThariqRidzuwan"
-                },
-                {
-                    "channel_id": -1002810029345,
-                    "public_link": "Aku_Bukan_Ustazah2"
-                },
-                {
-                    "channel_id": -1002727242579,
-                    "public_link": "DiaBukanSyurga"
+                    "channel_id": -1002673284248,
+                    "public_link": "Notif_ganti_link"
                 }
             ]
         }
