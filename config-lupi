@@ -3,9 +3,14 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 90,
     "channel_notif": -1002673284248,
-    "target_hour": [0, 3, 5, 17, 11],
+    "target_hour": [
+        0,
+        3,
+        5,
+        17
+    ],
     "jumlah_random_word": 4,
-    "target_minute": 12,
+    "target_minute": 0,
     "daftar_account": [
         {
             "session_name": "akun_upi",
