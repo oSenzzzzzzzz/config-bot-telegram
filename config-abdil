@@ -3,15 +3,10 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 300,
     "channel_notif": -1002714599466,
-    "target_hour": [
-        0,
-        3,
-        5,
-        17
-    ],
+    "target_hour": [0, 3, 5, 17],
     "jumlah_random_word": 3,
     "target_minute": 0,
-    "daftar_account": [
+    "daftar_account":[
         {
             "session_name": "akun_1",
             "phone_number": "+6283141184326",
@@ -29,6 +24,7 @@
                     "public_link": "RUMAH_TANPA_LUKA"
                 }
             ]
+            
         },
         {
             "session_name": "akun_2",
@@ -41,56 +37,44 @@
                 {
                     "channel_id": -1001990318466,
                     "public_link": "HONEY_TRAP"
-                },
-                {
-                    "channel_id": -1002040170718,
-                    "public_link": "Rumah_tanpa_luka"
                 }
             ]
+            
         },
         {
             "session_name": "akun_3",
             "phone_number": "+60172473710",
             "channel": [
                 {
+                    "channel_id": -1002040170718,
+                    "public_link": "Rumah_tanpa_luka"
+                },
+                {
                     "channel_id": -1001751796644,
                     "public_link": "Thariq_Ridzuwan_His_Treasure"
                 },
                 {
-                    "channel_id": -1001897308905,
-                    "public_link": "Seadanya_Kita"
-                },
-                {
                     "channel_id": -1002038400300,
                     "public_link": "seindah_hujan_cinta"
-                },
-                {
-                    "channel_id": -1002265756569,
-                    "public_link": "Seadanya_Kita"
                 }
+
             ]
+            
         },
         {
             "session_name": "akun_4",
-            "phone_number": "+6282249028994",
+            "phone_number": "+6283817059599",
             "channel": [
-                {
-                    "channel_id": -1002007435627,
-                    "public_link": "Rumah_Tanpa_Luka_2025"
-                },
-                {
-                    "channel_id": -1002042811608,
-                    "public_link": "anak_anak_mafia"
-                },
                 {
                     "channel_id": -1001827547907,
                     "public_link": "seadanya_kita"
                 },
                 {
-                    "channel_id": -1002677622938,
-                    "public_link": "Thariq_Ridzuwan_His_Treasure"
+                    "channel_id": -1001585043163,
+                    "public_link": "seadanya_kitaa"
                 }
             ]
+            
         },
         {
             "session_name": "akun_5",
@@ -105,6 +89,53 @@
                     "public_link": "Rumah_Tanpa_Luka"
                 }
             ]
+            
+        },
+        {
+            "session_name": "akun_6",
+            "phone_number": "+19105434173",
+            "channel": [
+                {
+                    "channel_id": -1002677622938,
+                    "public_link": "dr_pontianak_2"
+                },
+                {
+                    "channel_id": -1001602663914,
+                    "public_link": "seadanyakita"
+                },
+                {
+                    "channel_id": -1001974341295,
+                    "public_link": "confidence_queen"
+                },
+                {
+                    "channel_id": -1001191016035 ,
+                    "public_link": "rumah_tanpa_lukaa"
+                }
+            ]
+            
+        },
+                {
+            "session_name": "akun_7",
+            "phone_number": "+19127930334",
+            "channel": [
+                {
+                    "channel_id": -1002007435627,
+                    "public_link": "Rumah_Tanpa_Luka_2025"
+                },
+                {
+                    "channel_id": -1001891915554,
+                    "public_link": "Tempest"
+                },
+                {
+                    "channel_id": -1001913810496,
+                    "public_link": "a_hundred_memories"
+                },
+                {
+                    "channel_id": -1001692050469,
+                    "public_link": "Shins_Project"
+                }
+            ]
+            
         }
     ]
 }
