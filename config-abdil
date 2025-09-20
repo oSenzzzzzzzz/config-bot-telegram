@@ -3,10 +3,15 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 300,
     "channel_notif": -1002714599466,
-    "target_hour": [0, 3, 5, 17],
+    "target_hour": [
+        0,
+        3,
+        5,
+        17
+    ],
     "jumlah_random_word": 3,
     "target_minute": 0,
-    "daftar_account":[
+    "daftar_account": [
         {
             "session_name": "akun_1",
             "phone_number": "+6283141184326",
@@ -24,7 +29,6 @@
                     "public_link": "RUMAH_TANPA_LUKA"
                 }
             ]
-            
         },
         {
             "session_name": "akun_2",
@@ -39,7 +43,6 @@
                     "public_link": "HONEY_TRAP"
                 }
             ]
-            
         },
         {
             "session_name": "akun_3",
@@ -57,9 +60,7 @@
                     "channel_id": -1002038400300,
                     "public_link": "seindah_hujan_cinta"
                 }
-
             ]
-            
         },
         {
             "session_name": "akun_4",
@@ -74,7 +75,6 @@
                     "public_link": "seadanya_kitaa"
                 }
             ]
-            
         },
         {
             "session_name": "akun_5",
@@ -89,7 +89,6 @@
                     "public_link": "Rumah_Tanpa_Luka"
                 }
             ]
-            
         },
         {
             "session_name": "akun_6",
@@ -108,23 +107,22 @@
                     "public_link": "confidence_queen"
                 },
                 {
-                    "channel_id": -1001191016035 ,
+                    "channel_id": -1001191016035,
                     "public_link": "rumah_tanpa_lukaa"
                 }
             ]
-            
         },
-                {
+        {
             "session_name": "akun_7",
             "phone_number": "+19127930334",
             "channel": [
                 {
                     "channel_id": -1002007435627,
-                    "public_link": "Rumah_Tanpa_Luka_2025"
+                    "public_link": "Rumah_Tanpa_Lukaqa"
                 },
                 {
                     "channel_id": -1001891915554,
-                    "public_link": "Tempest"
+                    "public_link": "Tempest_Sub_Indo"
                 },
                 {
                     "channel_id": -1001913810496,
@@ -132,10 +130,9 @@
                 },
                 {
                     "channel_id": -1001692050469,
-                    "public_link": "Shins_Project"
+                    "public_link": "Shins_Project_Sub_Indo"
                 }
             ]
-            
         }
     ]
 }
