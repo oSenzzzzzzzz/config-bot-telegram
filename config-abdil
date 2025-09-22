@@ -135,9 +135,18 @@
             ]
         },
         {
-            "session_name": "akun_7",
+            "session_name": "akun_8",
             "phone_number": "+6283844093135",
-            "channel": []
+            "channel": [
+                {
+                    "channel_id": -1001629494993,
+                    "public_link": "confidence_queenaq"
+                },
+                {
+                    "channel_id": -1002441058188,
+                    "public_link": "dia_imamku"
+                }
+            ]
         }
     ]
 }
