@@ -1,19 +1,31 @@
 {
+    "api_id": 21723905,
+    "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
+    "delay_seconds": 300,
+    "channel_notif": -1002714599466,
+    "target_hour": [
+        1,
+        3,
+        5,
+        17
+    ],
+    "jumlah_random_word": 3,
+    "target_minute": 32,
     "daftar_account": [
         {
             "session_name": "akun_1",
             "phone_number": "+6283141184326",
             "channel": [
                 {
-                    "channel_id": "-1001955322751",
+                    "channel_id": -1001955322751,
                     "public_link": "mandul_bukan_pilihan"
                 },
                 {
-                    "channel_id": "-1002045376952",
+                    "channel_id": -1002045376952,
                     "public_link": "honey_trap"
                 },
                 {
-                    "channel_id": "-1001880160883",
+                    "channel_id": -1001880160883,
                     "public_link": "RUMAH_TANPA_LUKA"
                 }
             ]
@@ -23,11 +35,11 @@
             "phone_number": "+6285213438834",
             "channel": [
                 {
-                    "channel_id": "-1002205561810",
-                    "public_link": "TAKDIR_CINTA_TERLARANGRQ"
+                    "channel_id": -1002205561810,
+                    "public_link": "Seadanya_Kitajz"
                 },
                 {
-                    "channel_id": "-1001990318466",
+                    "channel_id": -1001990318466,
                     "public_link": "HONEY_TRAP"
                 }
             ]
@@ -37,16 +49,16 @@
             "phone_number": "+60172473710",
             "channel": [
                 {
-                    "channel_id": "-1002040170718",
+                    "channel_id": -1002040170718,
                     "public_link": "Rumah_tanpa_luka"
                 },
                 {
-                    "channel_id": "-1001751796644",
+                    "channel_id": -1001751796644,
                     "public_link": "Thariq_Ridzuwan_His_Treasure"
                 },
                 {
-                    "channel_id": "-1002038400300",
-                    "public_link": "generasi_perfect_10a"
+                    "channel_id": -1002038400300,
+                    "public_link": "seindah_hujan_cinta"
                 }
             ]
         },
@@ -55,7 +67,11 @@
             "phone_number": "+6283817059599",
             "channel": [
                 {
-                    "channel_id": "-1001585043163",
+                    "channel_id": -1001827547907,
+                    "public_link": "seadanya_kita"
+                },
+                {
+                    "channel_id": -1001585043163,
                     "public_link": "seadanya_kitaa"
                 }
             ]
@@ -65,11 +81,11 @@
             "phone_number": "+62895422707240",
             "channel": [
                 {
-                    "channel_id": "-1002046654269",
+                    "channel_id": -1002046654269,
                     "public_link": "rumah_tanpa_luka"
                 },
                 {
-                    "channel_id": "-1001813089691",
+                    "channel_id": -1001813089691,
                     "public_link": "Rumah_Tanpa_Luka"
                 }
             ]
@@ -79,20 +95,20 @@
             "phone_number": "+19105434173",
             "channel": [
                 {
-                    "channel_id": "-1002677622938",
+                    "channel_id": -1002677622938,
                     "public_link": "dr_pontianak_2"
                 },
                 {
-                    "channel_id": "-1001602663914",
-                    "public_link": "putri_kelas_atastq"
+                    "channel_id": -1001602663914,
+                    "public_link": "seadanyakita"
                 },
                 {
-                    "channel_id": "-1001974341295",
+                    "channel_id": -1001974341295,
                     "public_link": "confidence_queen"
                 },
                 {
-                    "channel_id": "-1001191016035",
-                    "public_link": "takdir_cinta_terlaranga"
+                    "channel_id": -1001191016035,
+                    "public_link": "rumah_tanpa_lukaa"
                 }
             ]
         },
@@ -101,19 +117,19 @@
             "phone_number": "+19127930334",
             "channel": [
                 {
-                    "channel_id": "-1002007435627",
+                    "channel_id": -1002007435627,
                     "public_link": "Rumah_Tanpa_Lukaqa"
                 },
                 {
-                    "channel_id": "-1001891915554",
+                    "channel_id": -1001891915554,
                     "public_link": "Tempest_Sub_Indo"
                 },
                 {
-                    "channel_id": "-1001913810496",
+                    "channel_id": -1001913810496,
                     "public_link": "a_hundred_memories"
                 },
                 {
-                    "channel_id": "-1001692050469",
+                    "channel_id": -1001692050469,
                     "public_link": "Shins_Project_Sub_Indo"
                 }
             ]
@@ -123,15 +139,15 @@
             "phone_number": "+6282249028994",
             "channel": [
                 {
-                    "channel_id": "-1002421380566",
+                    "channel_id": -1002421380566,
                     "public_link": "Takdir_cinta_terlarang"
                 },
                 {
-                    "channel_id": "-1001615583392",
+                    "channel_id": -1001615583392,
                     "public_link": "Takdir_cinta_terlarangqp"
                 },
                 {
-                    "channel_id": "-1001629494993",
+                    "channel_id": -1001629494993,
                     "public_link": "confidence_queenaq"
                 }
             ]
