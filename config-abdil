@@ -55,10 +55,6 @@
             "phone_number": "+6283817059599",
             "channel": [
                 {
-                    "channel_id": "-1001827547907",
-                    "public_link": "seadanya_kita"
-                },
-                {
                     "channel_id": "-1001585043163",
                     "public_link": "seadanya_kitaa"
                 }
