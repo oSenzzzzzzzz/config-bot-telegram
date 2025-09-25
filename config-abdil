@@ -10,7 +10,7 @@
         17
     ],
     "jumlah_random_word": 3,
-    "target_minute": 32,
+    "target_minute": 0,
     "daftar_account": [
         {
             "session_name": "akun_1",
@@ -108,7 +108,7 @@
                 },
                 {
                     "channel_id": -1001191016035,
-                    "public_link": "rumah_tanpa_lukaa"
+                    "public_link": "Takdir_cinta_terlarangjz"
                 }
             ]
         },
@@ -145,10 +145,6 @@
                 {
                     "channel_id": -1001615583392,
                     "public_link": "Takdir_cinta_terlarangqp"
-                },
-                {
-                    "channel_id": -1001629494993,
-                    "public_link": "confidence_queenaq"
                 }
             ]
         }
