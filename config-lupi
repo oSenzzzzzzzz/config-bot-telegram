@@ -67,6 +67,10 @@
                 {
                     "channel_id": -1002611884885,
                     "public_link": "SetiaItuMahal"
+                },
+                {
+                    "channel_id": -1002749804422,
+                    "public_link": "Puteri_Kelas_Atas_2025"
                 }
             ]
         },
@@ -88,7 +92,7 @@
                 },
                 {
                     "channel_id": -1002727242579,
-                    "public_link": "DiaBukanSyurga"
+                    "public_link": "PuteriKelasAtas"
                 }
             ]
         }
