@@ -103,28 +103,6 @@
             ]
         },
         {
-            "session_name": "akun_6",
-            "phone_number": "+6285215031770",
-            "channel": [
-                {
-                    "channel_id": -1002677622938,
-                    "public_link": "dr_pontianak_2"
-                },
-                {
-                    "channel_id": -1001602663914,
-                    "public_link": "Putri_kelas_atasqz"
-                },
-                {
-                    "channel_id": -1001974341295,
-                    "public_link": "confidence_queen"
-                },
-                {
-                    "channel_id": -1001191016035,
-                    "public_link": "Jika_itu_salahku"
-                }
-            ]
-        },
-        {
             "session_name": "akun_7",
             "phone_number": "+62895352840449",
             "channel": [
