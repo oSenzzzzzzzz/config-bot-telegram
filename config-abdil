@@ -3,12 +3,7 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 300,
     "channel_notif": -1002714599466,
-    "target_hour": [
-        1,
-        3,
-        5,
-        17
-    ],
+    "target_hour": [21, 2, 5, 17],
     "jumlah_random_word": 3,
     "target_minute": 0,
     "daftar_account": [
