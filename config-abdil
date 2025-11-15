@@ -3,7 +3,12 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 300,
     "channel_notif": -1002714599466,
-    "target_hour": [21, 2, 5, 17],
+    "target_hour": [
+        21,
+        2,
+        5,
+        17
+    ],
     "jumlah_random_word": 3,
     "target_minute": 0,
     "daftar_account": [
@@ -61,7 +66,7 @@
                 },
                 {
                     "channel_id": -1001751796644,
-                    "public_link": "the_manipulated"
+                    "public_link": "drama_spirit_fingers"
                 },
                 {
                     "channel_id": -1002038400300,
