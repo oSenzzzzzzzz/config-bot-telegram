@@ -3,7 +3,12 @@
     "api_hash": "ef9af8b1411b6d784a607d339d4da7a6",
     "delay_seconds": 90,
     "channel_notif": -1002673284248,
-    "target_hour": [21, 2, 5, 17],
+    "target_hour": [
+        21,
+        2,
+        5,
+        17
+    ],
     "jumlah_random_word": 4,
     "target_minute": 0,
     "daftar_account": [
@@ -13,11 +18,11 @@
             "channel": [
                 {
                     "channel_id": -1002635373710,
-                    "public_link": "Generasi_Perfect"
+                    "public_link": "BahagiaYangTangguh"
                 },
                 {
                     "channel_id": -1002658421876,
-                    "public_link": "Takdir_Cinta_Terlarang"
+                    "public_link": "Sumpah_Ibuku"
                 },
                 {
                     "channel_id": -1002661193571,
@@ -87,7 +92,7 @@
                 },
                 {
                     "channel_id": -1002727242579,
-                    "public_link": "PuteriKelasAtas"
+                    "public_link": "HikayatBatuBelah"
                 }
             ]
         }
