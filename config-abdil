@@ -161,6 +161,16 @@
                     "public_link": "satu_dua_dia"
                 }
             ]
+        },
+        {
+            "session_name": "akun_9",
+            "phone_number": "+6281514444292",
+            "channel": [
+                {
+                    "channel_id": "",
+                    "public_link": ""
+                }
+            ]
         }
     ]
 }
