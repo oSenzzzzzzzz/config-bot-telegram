@@ -167,8 +167,20 @@
             "phone_number": "+6281514444292",
             "channel": [
                 {
-                    "channel_id": "",
-                    "public_link": ""
+                    "channel_id": -1001678794559,
+                    "public_link": "bisik_asmara"
+                },
+                {
+                    "channel_id": -1002051085081,
+                    "public_link": "di_sebalik_jubah"
+                },
+                {
+                    "channel_id": -1001668122941,
+                    "public_link": "andai_itu_takdirnyaga"
+                },
+                {
+                    "channel_id": -1001605819190,
+                    "public_link": "khianat_yang_terpilih"
                 }
             ]
         }
