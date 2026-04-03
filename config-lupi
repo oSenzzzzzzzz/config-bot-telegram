@@ -95,6 +95,11 @@
                     "public_link": "MisiSolat5Waktu"
                 }
             ]
+        },
+        {
+            "session_name": "akun_eka",
+            "phone_number": "+62 89665784444",
+            "channel": []
         }
     ]
 }
