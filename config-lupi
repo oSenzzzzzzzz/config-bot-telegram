@@ -18,19 +18,15 @@
             "channel": [
                 {
                     "channel_id": -1002635373710,
-                    "public_link": "mandul_bukan_pilihan"
+                    "public_link": "KeranaCintaItuDusta"
                 },
                 {
                     "channel_id": -1002658421876,
-                    "public_link": "MandulBukanPilihan"
+                    "public_link": "AnugerahTanpaCahaya"
                 },
                 {
                     "channel_id": -1002661193571,
-                    "public_link": "SeindahHujanCinta"
-                },
-                {
-                    "channel_id": -1001977820685,
-                    "public_link": "AkuBukanUstazah"
+                    "public_link": "HilangDalamRindu2"
                 }
             ]
         },
@@ -39,16 +35,16 @@
             "phone_number": "+6282338341819",
             "channel": [
                 {
-                    "channel_id": -1002786457921,
-                    "public_link": "Di_Sebalik_Reda"
-                },
-                {
                     "channel_id": -1002553767848,
-                    "public_link": "HilangDalamRindu"
+                    "public_link": "BilaCintaMenjadiDosa"
                 },
                 {
                     "channel_id": -1002311890998,
-                    "public_link": "DosaCinta"
+                    "public_link": "KhianatYangTerpilih"
+                },
+                {
+                    "channel_id": -1002786457921,
+                    "public_link": "MencariIsteriSempurna"
                 },
                 {
                     "channel_id": -1002658304990,
@@ -61,16 +57,20 @@
             "phone_number": "+6287817970785",
             "channel": [
                 {
-                    "channel_id": -1002842822673,
-                    "public_link": "HoneyTrap"
+                    "channel_id": -1002611884885,
+                    "public_link": "Walid"
                 },
                 {
-                    "channel_id": -1002580127187,
-                    "public_link": "Setia_Itu_Mahal"
+                    "channel_id": 1002842822673,
+                    "public_link": "HeningCinta"
                 },
                 {
                     "channel_id": -1002611884885,
-                    "public_link": "SetiaItuMahal"
+                    "public_link": "SujudTerakhirEncikNorman"
+                },
+                {
+                    "channel_id": -1002749804422,
+                    "public_link": "MyStolenFirstLove"
                 }
             ]
         },
@@ -80,19 +80,19 @@
             "channel": [
                 {
                     "channel_id": -1002618126267,
-                    "public_link": "Thariq_Ridzuwan"
+                    "public_link": "AndaiItuTakdirnya2"
                 },
                 {
                     "channel_id": -1002722546928,
-                    "public_link": "ThariqRidzuwan"
-                },
-                {
-                    "channel_id": -1002810029345,
-                    "public_link": "Aku_Bukan_Ustazah2"
+                    "public_link": "NamamuCinta"
                 },
                 {
                     "channel_id": -1002727242579,
-                    "public_link": "DiaBukanSyurga"
+                    "public_link": "MisiSolat5Waktu"
+                },
+                {
+                    "channel_id": -1002810029345,
+                    "public_link": "DrPontianak2"
                 }
             ]
         },
