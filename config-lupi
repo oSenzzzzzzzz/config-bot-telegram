@@ -121,7 +121,24 @@
         {
             "session_name": "akun_wardaya",
             "phone_number": "+62 85885956838",
-            "channel": []
+            "channel": [
+                {
+                    "channel_id": -1003818242297,
+                    "public_link": "ad"
+                },
+                {
+                    "channel_id": -1003601685612,
+                    "public_link": "sad"
+                },
+                {
+                    "channel_id": -1003795821266,
+                    "public_link": "sa"
+                },
+                {
+                    "channel_id": -1003787146754,
+                    "public_link": "dwa"
+                }
+            ]
         }
     ]
 }
