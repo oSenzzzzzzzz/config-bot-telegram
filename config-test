@@ -13,26 +13,9 @@
     "target_minute": 0,
     "daftar_account": [
         {
-            "session_name": "akun_1",
-            "phone_number": "6282272333767",
-            "channel": [
-                {
-                    "channel_id": -1003347125984,
-                    "public_link": "dendamseorangmentua"
-                },
-                {
-                    "channel_id": -1003878923947,
-                    "public_link": "dearfarris"
-                },
-                {
-                    "channel_id": -1002685190473,
-                    "public_link": "cahayaanaklorong"
-                },
-                {
-                    "channel_id": -1002572566172,
-                    "public_link": "bayanganlelakisempurna"
-                }
-            ]
+            "session_name": "akun_fatimah",
+            "phone_number": "6285885956838",
+            "channel": []
         }
     ]
 }
