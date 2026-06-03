@@ -183,6 +183,16 @@
                     "public_link": "Good_Boys"
                 }
             ]
+        },
+        {
+            "session_name": "akun_10",
+            "phone_number": "+6285654469227",
+            "channel": [
+                {
+                    "channel_id": -1002231515186,
+                    "public_link": "Dendam_Seorang_Mentua1"
+                }
+            ]
         }
     ]
 }
