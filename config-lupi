@@ -26,7 +26,7 @@
                 },
                 {
                     "channel_id": -1002661193571,
-                    "public_link": "IsteriRahsiaUangkuJabbar"
+                    "public_link": "IkatanTerlarang"
                 }
             ]
         },
@@ -36,7 +36,7 @@
             "channel": [
                 {
                     "channel_id": -1002553767848,
-                    "public_link": "BilaCintaMenjadiDosa"
+                    "public_link": "JiwaSeorangPentaksub"
                 },
                 {
                     "channel_id": -1002311890998,
@@ -57,8 +57,8 @@
             "phone_number": "+6287817970785",
             "channel": [
                 {
-                    "channel_id": -1002611884885,
-                    "public_link": "Walid"
+                    "channel_id": -1002580127187,
+                    "public_link": "jiwaseorangpentaksub"
                 },
                 {
                     "channel_id": 1002842822673,
@@ -66,7 +66,7 @@
                 },
                 {
                     "channel_id": -1002611884885,
-                    "public_link": "BayanganLelakiSempurna"
+                    "public_link": "LukaDiHujungSetia"
                 },
                 {
                     "channel_id": -1002749804422,
@@ -84,11 +84,11 @@
                 },
                 {
                     "channel_id": -1002722546928,
-                    "public_link": "AkuPilihPelangi"
+                    "public_link": "NerakaYangTerhijab"
                 },
                 {
                     "channel_id": -1002727242579,
-                    "public_link": "Dorm403"
+                    "public_link": "BapaMentuakuMafia"
                 },
                 {
                     "channel_id": -1002810029345,
@@ -106,7 +106,7 @@
                 },
                 {
                     "channel_id": -1003842910219,
-                    "public_link": "AkuPilihPelangi"
+                    "public_link": "nerakayangterhijab"
                 },
                 {
                     "channel_id": -1003802330126,
@@ -124,19 +124,19 @@
             "channel": [
                 {
                     "channel_id": -1003818242297,
-                    "public_link": "akukuku15"
+                    "public_link": "cahaya_anak_lorong"
                 },
                 {
                     "channel_id": -1003601685612,
-                    "public_link": "Dorm403"
+                    "public_link": "bapamentuakumafia"
                 },
                 {
                     "channel_id": -1003795821266,
-                    "public_link": "IsteriRahsiaUangkuJabbar"
+                    "public_link": "ikatanterlarang"
                 },
                 {
                     "channel_id": -1003787146754,
-                    "public_link": "BayanganLelakiSempurna"
+                    "public_link": "lukadihujungsetia"
                 }
             ]
         }
