@@ -37,7 +37,16 @@
         {
             "session_name": "nugroho",
             "phone_number": "6285836041896",
-            "channel": []
+            "channel": [
+                {
+                    "channel_id": -1004318132126,
+                    "public_link": "keturunan"
+                },
+                {
+                    "channel_id": -1003741478681,
+                    "public_link": "ultraskambungubi"
+                }
+            ]
         }
     ]
 }
