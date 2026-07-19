@@ -42,6 +42,11 @@
             "title": "Cinta Dalam Sekam",
             "dest_chat": -1003729718008,
             "dest_topic_id": 1095
+        },
+        {
+            "title": "Wish List",
+            "dest_chat": -1003973066670,
+            "dest_topic_id": ""
         }
     ]
 }
