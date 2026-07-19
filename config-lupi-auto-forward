@@ -1,12 +1,47 @@
 {
-    "sumber_film": "",
-    "forward_delay": "",
-    "search_limit": "",
+    "sumber_film": -1001824478298,
+    "forward_delay": 2,
+    "search_limit": 200,
     "judul_film": [
         {
-            "title": "",
-            "dest_chat": "",
-            "dest_topic_id": ""
+            "title": "Kasih Yang Terkorban",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1059
+        },
+        {
+            "title": "Yes Captain Zul Aaryan",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1052
+        },
+        {
+            "title": "Ikatan Terlarang",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 984
+        },
+        {
+            "title": "Wish List",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 939
+        },
+        {
+            "title": "Keturunan",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1004
+        },
+        {
+            "title": "Anom Suraya",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1013
+        },
+        {
+            "title": "Bidadari Tanpa Syurga 2026",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 948
+        },
+        {
+            "title": "Cinta Dalam Sekam",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1095
         }
     ]
 }
