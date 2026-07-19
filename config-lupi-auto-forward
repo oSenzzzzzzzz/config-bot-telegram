@@ -46,6 +46,10 @@
         {
             "title": "Wish List",
             "dest_chat": -1003973066670
+        },
+        {
+            "title": "Anom Suraya",
+            "dest_chat": -1004298774583
         }
     ]
 }
