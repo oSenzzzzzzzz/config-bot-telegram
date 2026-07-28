@@ -58,6 +58,15 @@
         {
             "title": "Yes Captain Zul Aaryan",
             "dest_chat": -1004403021853
+        },
+        {
+            "title": "Bulan Henti Bicara",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1135
+        },
+        {
+            "title": "Bulan Henti Bicara",
+            "dest_chat": -1004411799266
         }
     ]
 }
