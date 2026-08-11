@@ -71,6 +71,11 @@
         {
             "title": "Cinta Dalam Sekam",
             "dest_chat": -1003678820710
+        },
+        {
+            "title": "Akad Tak Dipinta",
+            "dest_chat": 3729718008,
+            "dest_topic_id": 1152
         }
     ]
 }
