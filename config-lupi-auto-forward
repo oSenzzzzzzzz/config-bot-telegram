@@ -74,8 +74,13 @@
         },
         {
             "title": "Akad Tak Dipinta",
-            "dest_chat": 3729718008,
+            "dest_chat": -1003729718008,
             "dest_topic_id": 1152
+        },
+        {
+            "title": "Madu Atau Racun",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1214
         }
     ]
 }
