@@ -100,6 +100,26 @@
         {
             "title": "Madu Atau Racun",
             "dest_chat": -1004419185609
+        },
+        {
+            "title": "Dia Perempuan Sialan",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1334
+        },
+        {
+            "title": "Kudrat 1968: High Council",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1336
+        },
+        {
+            "title": "Sumpahan Mencintai",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1338
+        },
+        {
+            "title": "Ke Mana Hilang Cinta",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1340
         }
     ]
 }
