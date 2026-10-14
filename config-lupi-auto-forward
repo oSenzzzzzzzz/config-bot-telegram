@@ -130,6 +130,16 @@
             "title": "Andai Masih Ada Maaf",
             "dest_chat": -1003729718008,
             "dest_topic_id": 1409
+        },
+        {
+            "title": "Sihir Isteri",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1451
+        },
+        {
+            "title": "Menantu Tanpa Reda",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1449
         }
     ]
 }
