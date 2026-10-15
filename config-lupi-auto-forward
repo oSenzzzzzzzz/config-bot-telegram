@@ -140,6 +140,11 @@
             "title": "Menantu Tanpa Reda",
             "dest_chat": -1003729718008,
             "dest_topic_id": 1449
+        },
+        {
+            "title": "PL I Love You",
+            "dest_chat": -1003729718008,
+            "dest_topic_id": 1470
         }
     ]
 }
