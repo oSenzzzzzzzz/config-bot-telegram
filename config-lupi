@@ -18,7 +18,7 @@
             "channel": [
                 {
                     "channel_id": -1002635373710,
-                    "public_link": "HanyaUntukDia"
+                    "public_link": "SuamikuAnakMak"
                 },
                 {
                     "channel_id": -1002658421876,
@@ -40,11 +40,11 @@
                 },
                 {
                     "channel_id": -1002311890998,
-                    "public_link": "hanyauntukdia"
+                    "public_link": "suamikuanakmak"
                 },
                 {
                     "channel_id": -1002786457921,
-                    "public_link": "KeManaHilangCinta"
+                    "public_link": "MenantuTanpaReda"
                 },
                 {
                     "channel_id": -1002658304990,
@@ -124,7 +124,7 @@
             "channel": [
                 {
                     "channel_id": -1003818242297,
-                    "public_link": "kemanahilangcinta"
+                    "public_link": "menantutanpareda"
                 },
                 {
                     "channel_id": -1003795821266,
@@ -132,7 +132,11 @@
                 },
                 {
                     "channel_id": -1003787146754,
-                    "public_link": "KasihYangTerkorban"
+                    "public_link": "sihiristeri"
+                },
+                {
+                    "channel_id": -1003601685612,
+                    "public_link": "SihirISteri"
                 }
             ]
         }
