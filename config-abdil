@@ -25,10 +25,6 @@
                     "public_link": "drama_turki_indonesia"
                 },
                 {
-                    "channel_id": -1002042811608,
-                    "public_link": "bulan_henti_bicara"
-                },
-                {
                     "channel_id": -1002677622938,
                     "public_link": "andai_itu"
                 }
@@ -60,10 +56,6 @@
             "session_name": "akun_3",
             "phone_number": "+60172473710",
             "channel": [
-                {
-                    "channel_id": -1002040170718,
-                    "public_link": "akad_tak_dipinta"
-                },
                 {
                     "channel_id": -1001522198454,
                     "public_link": "Menantu_Tanpa"
