@@ -182,17 +182,17 @@
         },
         {
             "title": "Wali Dalam Tangisan",
-            "dest_chat": "",
+            "dest_chat": -1003729718008,
             "dest_topic_id": 1640
         },
         {
             "title": "School of Stars S.O.S",
-            "dest_chat": "",
+            "dest_chat": -1003729718008,
             "dest_topic_id": 1642
         },
         {
             "title": "Dua Nyawa",
-            "dest_chat": "",
+            "dest_chat": -1003729718008,
             "dest_topic_id": 1644
         }
     ]
